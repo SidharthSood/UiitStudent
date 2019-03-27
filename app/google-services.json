@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946800839717",
+    "firebase_url": "https://uiit-app.firebaseio.com",
+    "project_id": "uiit-app",
+    "storage_bucket": "uiit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800839717:android:6bee4991bd6add6e",
+        "android_client_info": {
+          "package_name": "uiit.com.sid.uiitstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800839717-pts2napnb3j4h5ase28gji3n528lcq30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uiit.com.sid.uiitstudent",
+            "certificate_hash": "0e24f152659cae732e65741228039d69197a12f4"
+          }
+        },
+        {
+          "client_id": "946800839717-32onln9bjaa35ru99oiopqo4lpq7g2oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQrbpkVDDSL-0F6SLcfrnT2Go4lEyamo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800839717-32onln9bjaa35ru99oiopqo4lpq7g2oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

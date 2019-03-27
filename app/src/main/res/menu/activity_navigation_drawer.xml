@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_attendance"
+            android:title="@string/attendance" />
+        <item
+            android:id="@+id/nav_notices"
+            android:icon="@drawable/ic_notice"
+            android:title="@string/notices" />
+        <item
+            android:id="@+id/nav_study_resources"
+            android:icon="@drawable/ic_resources"
+            android:title="@string/study_resources" />
+        <item
+            android:id="@+id/nav_club_activities"
+            android:icon="@drawable/ic_clubs"
+            android:title="@string/club_activities" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_web_portal"
+                android:icon="@drawable/ic_web_portal"
+                android:title="@string/web_portal" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="@string/feedback" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/ic_about_us"
+                android:title="@string/about_us" />
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@drawable/ic_sign_out"
+                android:title="@string/sign_out" />
+        </menu>
+    </item>
+
+</menu>
